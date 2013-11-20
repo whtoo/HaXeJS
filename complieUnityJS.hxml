@@ -1,0 +1,25 @@
+-cp src
+# Uncomment the desirable target
+# JavaScript target
+-js out/UntityJS.js
+
+# SWF 9 target
+# -swf9 out/HaxeJS.swf
+
+# ActionScript3 target
+# -as3 out
+-lib jquery:1.1.2
+-lib createjs:1.5.1
+
+# Neko target
+# -neko out/HaxeJS.n
+
+# PHP target
+# -php out
+
+# C++ target
+# -cpp out
+# Resource Tempalte
+#-resource sample.mtt@my_sample
+# Uncomment and place your main class with package
+-main UntityJS 
