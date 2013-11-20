@@ -1,5 +1,5 @@
 -cp src
-
+-cp src/jsNIT
 # Uncomment the desirable target
 # JavaScript target
 -js out/HaxeJS.js
